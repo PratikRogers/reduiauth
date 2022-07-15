@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "private": true,
   "homepage": "",
-  "proxybk": "https://10.18.168.98:8098/",
+  "proxy2": "https://10.73.186.42:8080/",
   "proxys": "https://localhost:8098/",
   "proxy1": "https://20.221.4.7:8098/",
   "dependencies": {
